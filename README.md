@@ -9,7 +9,7 @@ como desenvolvedora. Além disso, pude participar de uma comunidade exclusiva, c
   - CSS
   - JavaScript
   - Github
-  - link do Projeto:
+  - link do Projeto: https://tamyrodrigues.github.io/NLW-Expert-Quiz/
 
 ##
 
